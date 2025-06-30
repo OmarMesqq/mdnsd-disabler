@@ -1,0 +1,6 @@
+id=mdnsd-disabler
+name=mDNSd Disabler
+version=1.0
+versionCode=1
+author=OmarMesqq
+description=Disables mDNS daemon by overriding it with a noop script
