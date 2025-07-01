@@ -2,6 +2,6 @@
 
 Create a flashable zip:
 ```
-zip -r mdnsd-disabler.zip .
+zip -r mdnsd-disabler.zip module.prop system/
 ```
 
